@@ -1,4 +1,4 @@
-from ejercicio1Modulo import *
+from Tema1Problema1Modulo import *
 
 continuar = 's'
 km = 0.0

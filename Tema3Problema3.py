@@ -1,4 +1,4 @@
-from ejercicio3Modulo import *
+from Tema3Problema3Modulo import *
 
 opcion = 1
 while opcion != 4:

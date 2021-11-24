@@ -1,4 +1,4 @@
-from ejercicio2Modulo import *
+from Tema2Problema2Modulo import *
 
 continuar = 's'
 while continuar == 's' or continuar == 'S':
