@@ -1,10 +1,4 @@
-## Referencia: Visite: https://numython.github.io/posts/2016/02/graficas-de-barras-en-matplotlib/
 import matplotlib.pyplot as plt
-
-
-
-#fig = plt.figure(u'Gráfica de barras') # Figure
-##ax = fig.add_subplot(111) # Axes
 
 fig, ax = plt.subplots()
 
