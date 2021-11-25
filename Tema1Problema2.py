@@ -1,4 +1,4 @@
-from Tema2Problema2Modulo import *
+from Tema1Problema2Modulo import *
 
 continuar = 's'
 while continuar == 's' or continuar == 'S':

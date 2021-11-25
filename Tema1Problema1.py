@@ -1,9 +1,6 @@
 from Tema1Problema1Modulo import *
 
 continuar = 's'
-km = 0.0
-eur = 0.0
-l = 0.0
 while continuar == 's' or continuar == 'S':
     km = float(input('Por favor ingrese los km a convertir: '))
     eur = float(input('Por favor ingrese los eur a convertir: '))
